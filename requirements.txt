@@ -1,0 +1,23 @@
+# Core Dependencies - AIMS Prediction System
+# Data Processing
+pandas>=1.5.0
+numpy>=1.21.0
+openpyxl>=3.0.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+xgboost>=1.6.0
+tensorflow>=2.8.0
+joblib>=1.1.0
+
+# FastAPI and Web
+fastapi>=0.95.0
+uvicorn[standard]>=0.20.0
+python-multipart>=0.0.5
+pydantic>=1.10.0
+
+# Date Processing
+python-dateutil>=2.8.0
+
+# Utilities
+typing-extensions>=4.0.0
